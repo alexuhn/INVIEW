@@ -1,24 +1,7 @@
-# 웹/모바일(웹 기술) 스켈레톤 프로젝트
 
-<!-- 필수 항목 -->
-
-## 카테고리
-
-| Application | Domain | Language | Framework |
-| ---- | ---- | ---- | ---- |
-| :white_check_mark: Desktop Web | :black_square_button: AI | :white_check_mark: JavaScript | :white_check_mark: Vue.js |
-| :white_check_mark: Mobile Web | :black_square_button: Big Data | :white_check_mark: TypeScript | :black_square_button: React |
-| :white_check_mark: Responsive Web | :black_square_button: Blockchain | :black_square_button: C/C++ | :black_square_button: Angular |
-| :black_square_button: Android App | :black_square_button: IoT | :black_square_button: C# | :white_check_mark: Node.js |
-| :black_square_button: iOS App | :black_square_button: AR/VR/Metaverse | :black_square_button: Python | :black_square_button: Flask/Django |
-| :black_square_button: Desktop App | :black_square_button: Game | :white_check_mark: Java | :white_check_mark: Spring/Springboot |
-| | | :black_square_button: Kotlin | |
-
-<!-- 필수 항목 -->
-## 📢 프로젝트 소개
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:cee5d0,45:f3f0d7,70:e0c097,100:ff7878&height=300&section=header&text=I%20N%20V%20I%20E%20W&fontColor=343a40&fontSize=120)
 
-
+## 📢 프로젝트 소개
 ### :question: 왜 INVIEW를 사용해야 할까요?
 - INVIEW는 취업준비생들에게 온라인 공간에서 빠르고 손쉽게 면접 상대를 찾을 수 있게 도와주는 프로젝트입니다.
 <br/>
